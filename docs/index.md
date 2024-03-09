@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "示例网站"
+  text: "由vitepress-SSG搭建"
+  tagline: 旨在展示vitepress-SSG的使用
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: VitepressBilud-Examples
+      link: /bilud
     - theme: alt
-      text: API Examples
+      text: Vitepress-API
       link: /api-examples
 
 features:
