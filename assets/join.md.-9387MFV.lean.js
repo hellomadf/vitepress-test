@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as a,a3 as e}from"./chunks/framework.CavZukWG.js";const f=JSON.parse('{"title":"Join","description":"","frontmatter":{},"headers":[],"relativePath":"join.md","filePath":"join.md"}'),i={name:"join.md"},c=e("",3),n=[c];function s(_,r,l,d,p,m){return a(),t("div",null,n)}const h=o(i,[["render",s]]);export{f as __pageData,h as default};
