@@ -6,6 +6,9 @@ hero:
   name: "示例网站"
   text: "由vitepress-SSG搭建"
   tagline: 旨在展示vitepress-SSG的使用
+  image: 
+    src: /.vitepress/public/d-logo.svg
+    alt: logo
   actions:
     - theme: brand
       text: VitepressBilud-Examples
